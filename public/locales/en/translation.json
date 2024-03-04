@@ -1,0 +1,68 @@
+{
+  "loading": "Loading",
+  "enter": "Enter",
+  "role": "Role",
+  "agency": "Agency",
+  "completed": "Completed",
+  "riconoscimenti": "Awards",
+  "close": "Close",
+  "close project": "Close this project",
+  "go to project": "Go to",
+  "intro": {
+    "p1": {
+      "l1": "Exploring the world of cybersecurity",
+      "l2": "and the intricacies of technology"
+    },
+    "p2": {
+      "l1": "Passionate about research",
+      "l2": "and innovation in the cybersecurity domain"
+    },
+    "p3": {
+      "l1": "Aspiring Cybersecurity Student"
+    },
+    "p4": {
+      "l1": "They Call Me Shubham."
+    },
+    "scroll_cta": {
+      "line1": "Scroll down",
+      "line2": "to see some work"
+    }
+  },
+  "portfolio": {
+    "intro": [
+      "I craft",
+      "Cyber solutions<br />plans.",
+      "Cyber security student by day, Web designer by night.",
+      "Plus, my first love, Cyber Security"
+    ],
+    "portfolio": [
+      "Projects",
+      "I have learned and got exprinced from : <strong>Bugcrowd</strong>, <strong>Tech Solution India Pvt Ltd</strong>, <strong>Innovate Tech Solution</strong>, and my favourite place <strong>Vilnius University</strong>.<br /><br />",
+      "Here are some of my most relevant projects."
+    ]
+  },
+  "about": {
+    "intro": [
+      "I was born in <ImageVenice>Bareilly, India</ImageVenice> in July 05, today I live in Kaunas, Lithuania and work as a Security Researcher (Bug Hunter) at <ImageSketchin>Bugcrowd</ImageSketchin>.",
+      "",
+      ""
+    ],
+    "clan_title": ["Work Experience"],
+    "clan": [
+      "12/09/2020 – CURRENT: Security Researcher at Bugcrowd",
+      "04/07/2020 – 10/08/2022: Jr. Linux System Administrator at Tech Solution India Pvt Ltd",
+      "09/02/2019 – 12/09/2020: Associate Linux System Engineer at Innovate Tech Solution"
+    ],
+    "method_title": "Education and Training<br /><pre>&</pre>Skills",
+    "method": [
+      "Bachelor's of Information System and Cyber Security at Vilnius University (Current)",
+      "CompTIA Pentest+ (Pentest+ 002) ",
+      "Try Hack me Under 3 in Lithuania server ",
+      " "
+    ]
+  },
+  "contact": {
+    "intro": "You can get in touch with me by writing to",
+    "social_intro": "Platforms"
+  }
+}

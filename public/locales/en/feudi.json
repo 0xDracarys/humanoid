@@ -1,0 +1,15 @@
+{
+  "title": "Feudi di San Gregorio",
+  "image": "/projects/feudi/hero.png",
+  "live": "https://www.feudi.it/",
+  "role": "Frontend Developer",
+  "agency": "Electro venom",
+  "completed": "04.2017",
+  "awards": ["Awwwards", "CSS Design Award", "Digital Design Awards"],
+  "modules": [
+    {
+      "component": "TextIntro",
+      "text": "Feudi di San Gregorio is the winery that has been enhancing the native grape varieties of the Campania region for over thirty years. As Frontend Developer I was in charge of the realization of their institutional website, with React, Redux, RX and REST API."
+    }
+  ]
+}
