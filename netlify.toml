@@ -1,7 +1,13 @@
 [build]
   command = "npm run build"
-  publish = "dist"
+  publish = "dist"  # or the directory where your build artifacts are generated
 
 [dev]
   command = "npm run dev"
-  port = 3000 # Adjust this port number if your development server is running on a different port
+  port = 3000  # or the port number your dev server is running on
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[[plugins]]
+  package = "@netlify/plugin-deploy-core"
